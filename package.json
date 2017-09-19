@@ -1,0 +1,17 @@
+{
+  "name": "busskill",
+  "version": "1.0.0",
+  "description": "A skill for the Amazon Echo to check TFL bus times.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Kielty",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14"
+  },
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
