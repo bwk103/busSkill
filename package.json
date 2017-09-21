@@ -10,12 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "alexa-sdk": "^1.0.14",
-    "dot-env": "0.0.1",
+    "dotenv": "^4.0.0",
     "moch": "0.0.1",
     "mocha": "^3.5.3"
   },
   "devDependencies": {
-    "bespoken-tools": "^1.0.5",
-    "jasmine": "^2.8.0"
+    "bespoken-tools": "^1.0.5"
   }
 }
