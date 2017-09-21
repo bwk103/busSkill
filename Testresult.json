@@ -1,0 +1,33 @@
+[
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Prediction, Tfl.Api.Presentation.Entities",
+        "id": "-2113288046",
+        "operationType": 1,
+        "vehicleId": "SL14LNH",
+        "naptanId": "40004406076A",
+        "stationName": "Felstead Road",
+        "lineId": "418",
+        "lineName": "418",
+        "platformName": "null",
+        "direction": "inbound",
+        "bearing": "33",
+        "destinationNaptanId": "",
+        "destinationName": "Kingston",
+        "timestamp": "2017-09-19T18:11:50Z",
+        "timeToStation": 1320,
+        "currentLocation": "",
+        "towards": "Tolworth",
+        "expectedArrival": "2017-09-19T18:33:50Z",
+        "timeToLive": "2017-09-19T18:34:20Z",
+        "modeName": "bus",
+        "timing": {
+            "$type": "Tfl.Api.Presentation.Entities.PredictionTiming, Tfl.Api.Presentation.Entities",
+            "countdownServerAdjustment": "00:00:01.9833246",
+            "source": "2017-09-19T07:09:54.957Z",
+            "insert": "2017-09-19T18:11:01.676Z",
+            "read": "2017-09-19T18:11:01.676Z",
+            "sent": "2017-09-19T18:11:50Z",
+            "received": "0001-01-01T00:00:00Z"
+        }
+    }
+]

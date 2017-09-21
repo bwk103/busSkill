@@ -4,14 +4,18 @@
   "description": "A skill for the Amazon Echo to check TFL bus times.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Ben Kielty",
   "license": "ISC",
   "dependencies": {
-    "alexa-sdk": "^1.0.14"
+    "alexa-sdk": "^1.0.14",
+    "dot-env": "0.0.1",
+    "moch": "0.0.1",
+    "mocha": "^3.5.3"
   },
   "devDependencies": {
+    "bespoken-tools": "^1.0.5",
     "jasmine": "^2.8.0"
   }
 }
