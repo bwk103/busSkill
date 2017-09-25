@@ -4,9 +4,6 @@
       "intent": "LaunchRequest"
     },
     {
-      "intent": "AMAZON.YesIntent"
-    },
-    {
       "intent": "AMAZON.NoIntent"
     },
     {
